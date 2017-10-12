@@ -2,6 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 results/*
 data/FungicideTidy.csv
 .httr-oauth
+=======
+>>>>>>> 2933c319ce2c29298feb2fbd6acdf750c5e02bf0

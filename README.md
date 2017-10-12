@@ -38,9 +38,9 @@ As a result of taking this workshop you should be able to:
 
 This website is meant to serve as a companion to the workshop. The pages located
 in the **Workshop** tab are rendered versions of R scripts located in the top 
-level of https://github.com/everhartlab/IntroR-at-OSU. As the workshop is designed to
-be interactive where the participants are given some control over what direction
-we should take the analyses, the scripts here are only to serve as guidelines.
+level of https://github.com/everhartlab/IntroR-at-OSU. The workshop is designed to
+be interactive, allowing to have some control over the direction taken in the 
+analyses, consequently the scripts here are designed to serve as a guideline.
 
 These scripts follow these conventions:
 
