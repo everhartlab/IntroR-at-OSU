@@ -15,7 +15,7 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -101,34 +101,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 66px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 71px;
+  margin-top: -71px;
 }
 </style>
 
@@ -366,16 +366,13 @@ div.tocify {
 <h2>Part I: Working Directories</h2>
 <p>A working directory is the folder on your computer where you are currently working. You can find out your current working directory by typing <code>getwd()</code></p>
 <pre class="r"><code>&gt; getwd()</code></pre>
-<pre><code>[1] &quot;/Users/zhian/Documents/Everhart/IntroR&quot;</code></pre>
+<pre><code>[1] &quot;/Users/severhart2/Documents/IntroR-at-OSU&quot;</code></pre>
 <p>If you’ve downloaded and un-zipped this directory to your desktop, you might see something like <code>/Users/&lt;yourname&gt;/Desktop/IntroR</code>. This is the default place where R will begin reading and writing files. For example, you can use the function <code>list.files()</code> to view the files in your current working directory. These are the same files that we downloaded earlier. If you’re using Rstudio, you can compare the file list with the “Files” tab in the bottom right panel.</p>
 <p>In order to use <code>list.files()</code>, we should provide it with a file path. We can provide it a “.”, which means “here” to most computer programs.</p>
 <pre class="r"><code>&gt; list.files(&quot;.&quot;)</code></pre>
-<pre><code> [1] &quot;analysis.R&quot;            &quot;data&quot;                 
- [3] &quot;docs&quot;                  &quot;IntroR.Rproj&quot;         
- [5] &quot;LICENSE&quot;               &quot;Makefile&quot;             
- [7] &quot;Part1-Introduction.R&quot;  &quot;Part2-Analysis.R&quot;     
- [9] &quot;Part3-Visualization.R&quot; &quot;parts.gif&quot;            
-[11] &quot;README.md&quot;            </code></pre>
+<pre><code>[1] &quot;data&quot;                  &quot;docs&quot;                  &quot;IntroR-at-OSU.Rproj&quot;  
+[4] &quot;LICENSE&quot;               &quot;Makefile&quot;              &quot;Part1-Introduction.R&quot; 
+[7] &quot;Part2-Analysis.R&quot;      &quot;Part3-Visualization.R&quot; &quot;README.md&quot;            </code></pre>
 <p>You can see that the first entry in here is “data”. This is where we’ve placed the fungicide example data.</p>
 <pre class="r"><code>&gt; list.files(&quot;data&quot;)</code></pre>
 <pre><code>[1] &quot;FungicideExample.csv&quot; &quot;README.md&quot;           </code></pre>
