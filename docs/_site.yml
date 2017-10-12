@@ -23,7 +23,7 @@ navbar:
           href: about.html
     - text: "Links"
       menu:
-        - text: "Workshop Quizzes"
+        - text: "Workshop Quiz"
           href: quiz.html
         - text: "Exit Survey"
           href: https://goo.gl/forms/iEDcbFx5Nhb4l3083
