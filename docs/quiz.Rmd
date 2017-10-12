@@ -2,17 +2,11 @@
 title: "Quiz Questions"
 ---
 
-During the live workshop, we will ask questions for the class to answer
-interactively. Below are the links to answer the questions.
+During the workshop break, take a few minutes to complete these 10 quiz questions to test your knowldge of subsetting, vectorization, conversions, and tables.  
 
-### [Data Types Quiz](https://goo.gl/forms/S5AXWUqJ0Evv7oeu1)
+Note: Your answers will be recorded and we will discuss in class, so don't submit your answer until you're ready!
 
-### [Subsetting Quiz](https://goo.gl/forms/JYQVIjlKAV6aXrIz1)
+### [Test Your Knowledge Quiz](https://goo.gl/forms/N199K0q84hDHc0H82)
 
-### [Vectorization Quiz](https://goo.gl/forms/dco0MMG5FWfj3Cpn2)
-
-### [Conversion Quiz](https://goo.gl/forms/bKamQXwgHSkQqSR73)
-
-### [Tables Quiz](https://goo.gl/forms/KcJQ5rNnXW81sVL63)
 
 

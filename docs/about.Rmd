@@ -1,12 +1,14 @@
 ---
-title: "About This Website"
+title: "About"
 ---
+
+## About this Website
 
 This website was built using R and Rmarkdown.
 
 Github: https://github.com/everhartlab/IntroR-at-OSU
 
-## About Zhian N. Kamvar
+## Zhian N. Kamvar
 
 I am a computational biologist currently working a post-doctoral researcher in the lab of Dr. Sydney E. Everhart at the Department of Plant Pathology at University of Nebraska-Lincoln. My research focus seeks to understand the mechanisms that drive the evolution of clonal plant pathogens.
 
@@ -14,7 +16,7 @@ I grew up in Cupertino, CA, but got my undergraduate degree in Biology at Truman
 
 My Ph. D. is from the Department of Botany and Plant Pathology at Oregon State University where I worked in the lab of Dr. Nik Grünwald. My dissertation focuses on my development of computational tools for analyzing clonal populations in the R package poppr.
 
-## About Sydney E. Everhart
+## Sydney E. Everhart
 
 I'm a molecular epidemiologist and assistant professor at the University of Nebraska.  My driving interests are derived from exploratory walks in the woods growing up in Iowa, which developed my curiosity to understand how and why microorganisms occur where they do.
 
