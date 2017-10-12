@@ -19,7 +19,7 @@ navbar:
       menu:
         - text: "Data Sets"
           href: data.html
-        - text: "About This Site"
+        - text: "About"
           href: about.html
     - text: "Links"
       menu:
