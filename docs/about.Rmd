@@ -1,0 +1,23 @@
+---
+title: "About This Website"
+---
+
+This website was built using R and Rmarkdown.
+
+Github: https://github.com/everhartlab/IntroR-at-OSU
+
+## About Zhian N. Kamvar
+
+I am a computational biologist currently working a post-doctoral researcher in the lab of Dr. Sydney E. Everhart at the Department of Plant Pathology at University of Nebraska-Lincoln. My research focus seeks to understand the mechanisms that drive the evolution of clonal plant pathogens.
+
+I grew up in Cupertino, CA, but got my undergraduate degree in Biology at Truman State University in Kirksville, MO where I had a research opportunity to work on understanding the regulation of shoot apical meristem development in maize. After graduation, I spent three years teaching and making music in South Korea before going back to the US to pursue my graduate education.
+
+My Ph. D. is from the Department of Botany and Plant Pathology at Oregon State University where I worked in the lab of Dr. Nik Grünwald. My dissertation focuses on my development of computational tools for analyzing clonal populations in the R package poppr.
+
+## About Sydney E. Everhart
+
+I'm a molecular epidemiologist and assistant professor at the University of Nebraska.  My driving interests are derived from exploratory walks in the woods growing up in Iowa, which developed my curiosity to understand how and why organisms occur where they do.
+
+I received a master's degree studying myxomycetes, a group of protista that are microbial predators, which is where I learned methods in biostatistics and community ecology.  Subsequently, I pursued a Ph.D. in plant pathology because it allowed intense focus on individual species, thus enabling deeper insight and inference on modes and mechanisms of spread, using traditional epidemiology and population genetics.
+
+I am passionate about making tools and techniques accessible to anyone, from both the open science standpoint and from the pedagogical side.  It is in that vein that the idea for this Intro to R workshop emerged.

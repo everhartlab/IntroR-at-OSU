@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+results/*
+data/FungicideTidy.csv
+.httr-oauth
