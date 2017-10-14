@@ -51,7 +51,7 @@ Once you have installed [R], we should verify that you have the correct version.
 ### Workshop Materials
 
 Our [workshop materials] is a zip file that contains a folder called 
-`IntroR-master/` with the folowing structure:
+`IntroR-at-OSU-master/` with the folowing structure:
 
 ```
 .
