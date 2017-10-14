@@ -87,6 +87,6 @@ install.packages(c("tidyverse", "agricolae"), repos = "https://cran.rstudio.com"
 [stat545]: http://stat545.com/block000_r-rstudio-install.html
 [R]: https://cloud.r-project.org/
 [RStudio]: https://www.rstudio.com/products/rstudio/download/
-[Workshop Materials]: https://github.com/everhartlab/IntroR/archive/master.zip
+[Workshop Materials]: https://github.com/everhartlab/IntroR-at-OSU/archive/master.zip
 [agricolae]: http://tarwi.lamolina.edu.pe/~fmendiburu/
 [tidyverse]: http://tidyverse.org/
