@@ -55,7 +55,7 @@ Our [workshop materials] is a zip file that contains a folder called
 
 ```
 .
-├── IntroR.Rproj
+├── IntroR-at-OSU.Rproj
 ├── LICENSE
 ├── Makefile
 ├── Part1-Introduction.R
