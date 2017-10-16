@@ -70,7 +70,7 @@ pi^2   # this does the same thing because ^ is, here, interpreted as "taken to t
 # re-type them.  By virtue, objects are only created once something has been 
 # assigned to them.  Anything can be stored in an object, including figures!
 
-# Let's repeat our simple math calculation above, this time using objects. It we
+# Let's repeat our simple math calculation above, this time using objects. If we
 # want to calculate (5+1)/3 using objects, it needs to look like this: (a+b)/c
 # The objects a, b, and c do not exist yet, so we need to assign values to them
 # in order to create them. R interprets the less than symbol and dash as

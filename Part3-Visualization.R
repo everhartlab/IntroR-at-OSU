@@ -81,9 +81,9 @@ is.data.frame(fungicide)
 # At some point in time, you will need to reshape/rearrange data in R. This is
 # a fact of life. Doing this in R is advantageous for three reasons:
 # 
-#  1. your original data is in tact
-#  2. you have a trail of self-documenting changes
-#  3. your future self will tank you
+#  1. your original data remains intact
+#  2. you have a trail of self-documented changes
+#  3. your future self will thank you
 # 
 # In order to use our data with ggplot2, we need to make sure it is in a "tidy"
 # form where we have one observation per row. We currently have six observations
