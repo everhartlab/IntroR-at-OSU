@@ -400,7 +400,6 @@ Loading tidyverse: tidyr
 Loading tidyverse: readr
 Loading tidyverse: purrr
 Loading tidyverse: dplyr</code></pre>
-<pre><code>Warning: package &#39;dplyr&#39; was built under R version 3.4.1</code></pre>
 <pre><code>Conflicts with tidy packages ----------------------------------------------</code></pre>
 <pre><code>filter(): dplyr, stats
 lag():    dplyr, stats</code></pre>
@@ -443,9 +442,9 @@ cols(
 <h2>Reshaping Data</h2>
 <p>At some point in time, you will need to reshape/rearrange data in R. This is a fact of life. Doing this in R is advantageous for three reasons:</p>
 <ol style="list-style-type: decimal">
-<li>your original data is in tact</li>
-<li>you have a trail of self-documenting changes</li>
-<li>your future self will tank you</li>
+<li>your original data remains intact</li>
+<li>you have a trail of self-documented changes</li>
+<li>your future self will thank you</li>
 </ol>
 <p>In order to use our data with ggplot2, we need to make sure it is in a “tidy” form where we have one observation per row. We currently have six observations per row. Thus, we will need to reshape this data from this:</p>
 <pre><code>  Julian.Date TwentyOneThirtySevenWheat TwentyOneThirtySevenWheat.trt CutterWheat CutterWheat.Trt JaggerWheat JaggerWheat.Trt
@@ -743,6 +742,7 @@ cols(
 <p>Now that we have our plot finished, we can save it with the <code>ggsave()</code> function, which allows us to save it as a pdf, png, svg, eps, etc. file.</p>
 <pre class="r"><code>&gt; ggsave(filename = &quot;results/figure1.pdf&quot;, width = 88, units = &quot;mm&quot;)</code></pre>
 <pre><code>Saving 88 x 178 mm image</code></pre>
+<pre><code>Error in grDevices::pdf(..., version = version): cannot open file &#39;results/figure1.pdf&#39;</code></pre>
 </div>
 </div>
 </div>
